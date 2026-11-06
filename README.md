@@ -1,3 +1,7 @@
+> ## 📱 Handy for Android
+> This fork adds a native **Android version of Handy**: an offline voice keyboard that types what you say into any app. Parakeet V3, Whisper, Moonshine and SenseVoice models run entirely on the phone.
+> **[Download the APK](https://github.com/laghab/Handy/releases/latest)** · [Source & docs](android/)
+
 # Handy
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/WVBeWsNXK4)

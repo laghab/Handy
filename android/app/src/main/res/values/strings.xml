@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Handy</string>
+    <string name="ime_name">Handy voice keyboard</string>
+    <string name="ime_subtype">Voice</string>
+    <string name="notif_channel_downloads">Model downloads</string>
+    <string name="notif_preparing">Preparing download…</string>
+    <string name="notif_downloading">Downloading %1$s</string>
+    <string name="notif_extracting">Unpacking %1$s…</string>
+    <string name="share_label">Transcribe with Handy</string>
+</resources>
